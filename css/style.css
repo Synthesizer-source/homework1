@@ -1,0 +1,11 @@
+/* * {
+	outline: 1px solid red;
+  } */
+.bg-primary{
+    background-color: #4d524b !important;
+}
+
+.bg-secondary{
+    background-color: #d8d5bf !important;
+}
+
